@@ -27,13 +27,13 @@ https://www.opencpu.org/
 
 **Sources:**
 
-R-Bloggers blog topic ["Integrating php and R"](http://www.r-bloggers.com/integrating-php-and-r/)
+R-Bloggers blog topic [Integrating php and R](http://www.r-bloggers.com/integrating-php-and-r/)
 
-The putative official [SAS Integrative solution for interactive SAS-IML]( https://support.sas.com/documentation/onlinedoc/imlstudio/WebHelp141/accessing_r/server_side_r/introduction.htm
+The putative official [SAS Integrative solution for interactive SAS-IML]( https://support.sas.com/documentation/onlinedoc/imlstudio/WebHelp141/accessing_r/server_side_r/introduction.htm)
 
 I include here representative [Stackexchange](http://stats.stackexchange.com/questions/4279/how-can-i-integrate-r-with-php) and [Stackoverflow](http://stackoverflow.com/questions/7943418/r-and-php-integration) discussions.
 
-Simly googling "calling r from php" or serch tewrms specific to one's needs, such as this example from [Mathew Jocker's](http://www.matthewjockers.net/2008/11/11/executing-r-in-php/) blog.
+Simply googling "calling r from php" or serch tewrms specific to one's needs, such as this example from [Mathew Jocker's](http://www.matthewjockers.net/2008/11/11/executing-r-in-php/) blog.
 
 
 -  Server-side python
