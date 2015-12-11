@@ -3,7 +3,7 @@ I think one of the most impactful Advanced R topics is Interactive Applications 
 
 In this repository I have pulled to gether all my Interactive Web Projects, particularly using R, to add sophisticated scientific computations capabilities.
 
-An overview of the options and especially use of shiny for the purpose is summarized below:
+An overview of the options and especially use of shiny for the purpose is summarized below. Then my own relevant applications projects with links follow, begining with my first, my [Developing Data Products Project]() which I completed for the course. This is meant to serve as my own project portfolio and I hope useful sample applications.
 
 ##Shiny
 http://shiny.rstudio.com/
