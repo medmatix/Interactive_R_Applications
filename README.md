@@ -23,3 +23,6 @@ https://www.opencpu.org/
 -  Server-side python
 
 -  Server-side JavaScript (node.ja)
+
+- "SAS Server-side R"
+    https://support.sas.com/documentation/onlinedoc/imlstudio/WebHelp141/accessing_r/server_side_r/introduction.htm
